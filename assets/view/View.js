@@ -1,4 +1,4 @@
-import {getDates} from '../js/dates';
+import {getDates} from '../js/dates.js';
 
 export class View {
 
